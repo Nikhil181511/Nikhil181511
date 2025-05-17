@@ -5,7 +5,6 @@
 🚀 Currently working on: AI-Powered Wellness App & Cab Booking System  
 🌱 Learning: Unity, Blender, and Advanced Deep Learning  
 📫 How to reach me: nikhilsavita186@gmail.com  
-🌐 Portfolio: [Your Website](https://yourportfolio.com)
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, C++
@@ -13,9 +12,6 @@
 - **Backend:** FastAPI, Node.js
 - **Tools:** Git, Firebase, Docker
 - **AI/ML:** PyTorch, TensorFlow, OpenCV
-
-## 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilsavita&show_icons=true&theme=radical)
 
 ---
 
