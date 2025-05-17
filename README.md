@@ -44,6 +44,12 @@ Wearable fall detection & heart rate monitoring device for the elderly.
 **Hardware:** ESP32-S2, MAX30102, MPU6050  
 **Tech:** Arduino, Firebase, React
 
+### 🧠 Animal Image Classifier + AI Assistant  
+A deep learning-based animal classifier with integrated AI assistant for facts and support.  
+**Tech:** React, FastAPI, PyTorch, Gemini Pro  
+🔗 [Live App](https://animal-classification-frontend.vercel.app/)  
+🦁 **Classes:** Bear, Bird, Cat, Cow, Deer, Dog, Elephant, Fish, Giraffe, Horse, Human, Insects, Kangaroo, Lion, Panda, Reptile, Sheep, Tiger, Zebra
+
 ### 🏨 Hotel Management System  
 Online hotel booking platform with admin-staff management features.  
 **Tech:** PHP, MySQL, JavaScript, HTML/CSS
