@@ -5,7 +5,10 @@
 🔐 Cybersecurity Learner | Google Cloud Study Jams Participant  
 🚀 Currently working on: AI/ML-based real-world solutions for mental wellness, product guides, and automation  
 📫 Reach me at: **nikhilsavita186@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsavita186) • [GitHub](https://github.com/Nikhil181511)
+[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-nikhil--ruby.vercel.app-blue?style=for-the-badge&logo=vercel)](https://nikhil-ruby.vercel.app/)
+🌐 Portfolio: [nikhil-ruby.vercel.app](https://nikhil-ruby.vercel.app/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsavita186) 
+• [GitHub](https://github.com/Nikhil181511)
 
 ---
 
