@@ -8,9 +8,7 @@
 
 [![Visit My Portfolio](https://img.shields.io/badge/Portfolio-nikhil--ruby.vercel.app-blue?style=for-the-badge&logo=vercel)](https://nikhil-ruby.vercel.app/)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsavita186) 
-
-• [GitHub](https://github.com/Nikhil181511)
+🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsavita186) • [GitHub](https://github.com/Nikhil181511)
 
 ---
 
