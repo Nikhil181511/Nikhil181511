@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm **Nikhil Savita**
 
 <div align="center">
+<img src="profile.jpg" alt="Nikhil Savita" width="200" height="200" style="border-radius: 50%; border: 4px solid #00D4FF; margin-bottom: 20px;" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;IoT+%26+Cloud+Computing+Hobbyist;Building+Solutions+That+Matter)
 
