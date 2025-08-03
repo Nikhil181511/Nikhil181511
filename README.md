@@ -28,7 +28,7 @@ const nikhil = {
 ```
 
 <p align="center">
-  <a href="mailto:nikhilsavita186@gmail.com">
+  <a href="nikhilsavita186@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://nikhilsavita.vercel.app/">
@@ -140,6 +140,8 @@ Comprehensive online hotel booking platform with advanced admin and staff manage
 
 **🔧 Tech Stack:** PHP • MySQL • JavaScript • HTML/CSS
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://nikhil181511.github.io/Hotel-Management/)
+
 </td>
 </tr>
 </table>
@@ -217,7 +219,7 @@ mindmap
     ├─────────────────────────┤
     │  IoT & Embedded Systems │ ██████████████████   75%
     ├─────────────────────────┤
-    │  Cybersecurity          │ ████████████         60%
+    │  Cybersecurity          │ ████████             50%
     ├─────────────────────────┤
     │  DevOps & Automation    │ ███████████████      70%
     └─────────────────────────┘
