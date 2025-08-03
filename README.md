@@ -1,88 +1,258 @@
-# 👋 Hi there, I'm Nikhil Savita
+# 👋 Hi there, I'm **Nikhil Savita**
 
-🎓 3rd Year Computer Science Student at Padre Conceicao College of Engineering (CGPA: 9.0)  
-💻 Full Stack Developer | AI & Deep Learning Enthusiast | IoT & Cloud Computing Hobbyist  
-🔐 Cybersecurity Learner | Google Cloud Study Jams Participant  
-🚀 Currently working on: AI/ML-based real-world solutions for mental wellness, product guides, and automation  
-📫 Reach me at: **nikhilsavita186@gmail.com**  
+<div align="center">
 
-[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-nikhilsavita.vercel.app-blue?style=for-the-badge&logo=vercel)](https://nikhilsavita.vercel.app/)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;IoT+%26+Cloud+Computing+Hobbyist;Building+Solutions+That+Matter)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhilsavita186) • [GitHub](https://github.com/Nikhil181511)
+</div>
 
 ---
 
-## 🧠 Summary
-
-Passionate about building innovative projects that solve real-world problems. Skilled in React, FastAPI, Firebase, and AI integrations like Gemini Pro & Ollama. Strong background in teamwork, problem-solving, and rapid prototyping. Quick learner exploring deep learning, cloud infrastructure, and embedded systems.
-
----
-
-## 💼 Experience
-
-- **Google Cloud Study Jams** – *GDSC PCCE*  
-  Hands-on experience with GCP services and cloud-hosted app deployments.
+## 🎓 **Academic Excellence**
+> **3rd Year Computer Science Student** at **Padre Conceicao College of Engineering**  
+> **CGPA: 9.0/10** 🏆
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 **About Me**
 
-### 🧠 MindWell – AI Mental Wellness Assistant  
-AI-powered platform for mood tracking, wellness advice & therapy booking.  
-**Tech:** React, FastAPI, Firebase, Gemini Pro, Ollama  
-🔗 [Live App](https://ai-mental-health-assistant-chi.vercel.app/)
+```typescript
+const nikhil = {
+    location: "Goa, India 🇮🇳",
+    education: "Computer Science Engineering",
+    currentFocus: ["AI/ML Solutions", "Mental Wellness Tech", "IoT Innovation"],
+    learning: ["Deep Learning", "Cloud Architecture", "Cybersecurity"],
+    askMeAbout: ["React", "FastAPI", "AI Integration", "IoT Development"],
+    funFact: "I turn coffee into code and ideas into reality! ☕→💻"
+};
+```
 
-### 🧾 Smart Consumer Guide – AI Product Scanner  
-Barcode scanner with AI-generated product safety & health insights.  
-**Tech:** React, FastAPI, Gemini Pro  
-🔗 [Live App](https://smart-consumer-guide.vercel.app/)
-
-### 🎯 AI Smart Presentation Generator  
-Instant smart presentation slides based on any topic input.  
-**Tech:** React, FastAPI, Gemini Pro  
-🔗 [Live App](https://ai-smart-presentation-generator.vercel.app/)
-
-### 🛡️ Safe Haven – Emergency IoT Device  
-Wearable fall detection & heart rate monitoring device for the elderly.  
-**Hardware:** ESP32-S2, MAX30102, MPU6050  
-**Tech:** Arduino, Firebase, React
-
-### 🧠 Animal Image Classifier + AI Assistant  
-A deep learning-based animal classifier with integrated AI assistant for facts and support.  
-**Tech:** React, FastAPI, PyTorch, Gemini Pro  
-🔗 [Live App](https://animal-classification-frontend.vercel.app/)  
-🦁 **Classes:** Bear, Bird, Cat, Cow, Deer, Dog, Elephant, Fish, Giraffe, Horse, Human, Insects, Kangaroo, Lion, Panda, Reptile, Sheep, Tiger, Zebra
-
-### 🏨 Hotel Management System  
-Online hotel booking platform with admin-staff management features.  
-**Tech:** PHP, MySQL, JavaScript, HTML/CSS
+<p align="center">
+  <a href="mailto:nikhilsavita186@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://nikhilsavita.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nikhilsavita186">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nikhil181511">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Arsenal**
 
-- **Languages:** Python, JavaScript, C++, PHP  
-- **Frontend:** React.js, HTML, CSS  
-- **Backend:** FastAPI, Node.js (basics), Firebase  
-- **Cloud/DevOps:** Google Cloud Platform, Docker, Git  
-- **IoT/Hardware:** ESP32-S2, Arduino, MAX30102, MPU6050  
-- **AI/ML:** PyTorch, TensorFlow, Gemini Pro, Ollama
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### **AI/ML & IoT**
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini Pro" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 🚀 **Featured Projects**
 
-- Programming in Modern C++ – NPTEL  
-- Google Cloud Computing Foundations – Qwiklabs  
-- AIML (Honors) – PCCE  
-- Finalist – IDEAS 2024 Hackathon, PCCE
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 **MindWell** - AI Mental Wellness Assistant
+AI-powered platform for comprehensive mental health support with mood tracking and therapy booking.
+
+**🔧 Tech Stack:** React • FastAPI • Firebase • Gemini Pro • Ollama
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-mental-health-assistant-chi.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🧾 **Smart Consumer Guide** - AI Product Scanner
+Intelligent barcode scanner providing AI-generated product safety insights and health recommendations.
+
+**🔧 Tech Stack:** React • FastAPI • Gemini Pro
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-consumer-guide.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 **AI Smart Presentation Generator**
+Generate professional presentation slides instantly from any topic using advanced AI.
+
+**🔧 Tech Stack:** React • FastAPI • Gemini Pro
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-smart-presentation-generator.vercel.app/)
+
+</td>
+<td width="50%">
+
+### 🛡️ **Safe Haven** - Emergency IoT Device
+Wearable fall detection and heart rate monitoring system for elderly care with real-time alerts.
+
+**🔧 Hardware:** ESP32-S2 • MAX30102 • MPU6050  
+**🔧 Software:** Arduino • Firebase • React
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🦁 **Animal Image Classifier + AI Assistant**
+Deep learning-powered animal classifier with integrated AI assistant for educational facts and wildlife support.
+
+**🔧 Tech Stack:** React • FastAPI • PyTorch • Gemini Pro
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://animal-classification-frontend.vercel.app/)
+
+**🎯 Classifies:** Bear • Bird • Cat • Cow • Deer • Dog • Elephant • Fish • Giraffe • Horse • Human • Insects • Kangaroo • Lion • Panda • Reptile • Sheep • Tiger • Zebra
+
+</td>
+<td width="50%">
+
+### 🏨 **Hotel Management System**
+Comprehensive online hotel booking platform with advanced admin and staff management features.
+
+**🔧 Tech Stack:** PHP • MySQL • JavaScript • HTML/CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 **Achievements & Recognition**
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil181511&show_icons=true&theme=radical)
+<div align="center">
+
+| 🎖️ **Achievement** | 🏛️ **Organization** | 📅 **Year** |
+|:------------------:|:------------------:|:-----------:|
+| **Finalist** - IDEAS Hackathon | PCCE | 2024 |
+| Google Cloud Study Jams | GDSC PCCE | 2024 |
+| Programming in Modern C++ | NPTEL | 2023 |
+| Google Cloud Computing Foundations | Qwiklabs | 2023 |
+| AIML (Honors) | PCCE | 2023 |
+
+</div>
 
 ---
 
-### 💡 “Learning by building. Building to solve.”
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nikhil181511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil181511&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhil181511&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌟 **Current Focus Areas**
+
+```mermaid
+mindmap
+  root((Nikhil's Focus))
+    AI/ML Solutions
+      Mental Wellness Tech
+      Computer Vision
+      NLP Applications
+    IoT Innovation
+      Healthcare Devices
+      Smart Automation
+      Sensor Integration
+    Cloud Computing
+      Serverless Architecture
+      Microservices
+      CI/CD Pipelines
+    Cybersecurity
+      Threat Analysis
+      Secure Development
+      Ethical Hacking
+```
+
+---
+
+## 📈 **Learning Journey**
+
+<div align="center">
+
+```ascii
+    🚀 Current Learning Path
+    ┌─────────────────────────┐
+    │  Deep Learning & AI     │ ████████████████████ 85%
+    ├─────────────────────────┤
+    │  Cloud Architecture     │ █████████████████    80%
+    ├─────────────────────────┤
+    │  IoT & Embedded Systems │ ██████████████████   75%
+    ├─────────────────────────┤
+    │  Cybersecurity          │ ████████████         60%
+    ├─────────────────────────┤
+    │  DevOps & Automation    │ ███████████████      70%
+    └─────────────────────────┘
+```
+
+</div>
+
+---
+
+## 💭 **Philosophy**
+
+<div align="center">
+
+> ### *"Learning by building. Building to solve."*
+> 
+> **🎯 Mission:** Creating AI-powered solutions that make a positive impact on people's lives  
+> **💡 Vision:** Bridging the gap between cutting-edge technology and real-world problems  
+> **🤝 Values:** Innovation • Collaboration • Continuous Learning • Social Impact
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 **Let's Connect & Collaborate!**
+
+*Always open to interesting conversations about technology, innovative projects, and making the world a better place through code!*
+
+[![Coffee Chat](https://img.shields.io/badge/☕_Coffee_Chat-Let's_Connect!-orange?style=for-the-badge)](mailto:nikhilsavita186@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
