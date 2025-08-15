@@ -20,7 +20,7 @@
 ```typescript
 const nikhil = {
     location: "Goa, India 🇮🇳",
-    education: "Computer Science Engineering",
+    education: "BE-Computer Science Engineering",
     currentFocus: ["AI/ML Solutions", "Mental Wellness Tech", "IoT Innovation"],
     learning: ["Deep Learning", "Cloud Architecture", "Cybersecurity"],
     askMeAbout: ["React", "FastAPI", "AI Integration", "IoT Development"],
