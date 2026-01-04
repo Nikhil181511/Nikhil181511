@@ -10,7 +10,7 @@
 ---
 
 ## 🎓 **Academic Excellence**
-> **3rd Year Computer Science Student** at **Padre Conceicao College of Engineering**  
+> **4th Year Computer Science Student** at **Padre Conceicao College of Engineering**  
 > **CGPA: 9.0/10** 🏆
 
 ---
