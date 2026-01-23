@@ -213,8 +213,6 @@ AI-powered platform for comprehensive mental health support with real-time mood 
 </div>
 
 </td>
-</tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -243,9 +241,8 @@ Intelligent barcode scanner providing AI-generated product safety insights, heal
 </div>
 
 </td>
-</tr>
 
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🎯 **AI Smart Presentation Generator**
@@ -273,6 +270,8 @@ Generate professional presentation slides instantly from any topic using advance
 </div>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ **Safe Haven**
@@ -299,9 +298,7 @@ Wearable fall detection and heart rate monitoring system for elderly care with r
 </div>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🦁 **Animal Image Classifier**
@@ -329,7 +326,7 @@ Deep learning-powered animal classifier with integrated AI assistant providing e
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Nikhil181511)
 
 </div>
-
+</tr>
 </td>
 <td width="50%" valign="top">
 
@@ -432,6 +429,12 @@ Comprehensive online hotel booking platform with advanced admin dashboard, staff
 <td align="center">🏆 <b>Goa Police Hackathon Winner</b></td>
 <td align="left">Won Goa Police Hackathon with Goa Patrols - an AI-powered online threat detection platform</td>
 <td align="center">Goa Police</td>
+<td align="center">2025</td>
+</tr>
+  <tr>
+<td align="center">🏅 <b>SIH Finalist</b></td>
+<td align="left">Shortlisted for SIH for innovative project development</td>
+<td align="center">SIH</td>
 <td align="center">2025</td>
 </tr>
 <tr>
