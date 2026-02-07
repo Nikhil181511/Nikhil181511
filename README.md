@@ -192,6 +192,8 @@ AI-powered platform for detecting and preventing online threats, cyberbullying, 
 #### *AI Mental Wellness Assistant*
 
 <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Award-Winner-gold?style=for-the-badge" alt="Award" />
+
 
 AI-powered platform for comprehensive mental health support with real-time mood tracking, AI therapy assistant, community support, and professional therapy booking.
 
