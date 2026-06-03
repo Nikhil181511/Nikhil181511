@@ -509,7 +509,6 @@ Comprehensive online hotel booking platform with advanced admin dashboard, staff
 <br>
 
 ---
-
 <div align="center">
 
 ## 📊 **GitHub Analytics & Statistics**
@@ -519,19 +518,7 @@ Comprehensive online hotel booking platform with advanced admin dashboard, staff
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nikhil181511&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Nikhil181511&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil181511&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil181511&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" alt="Contribution Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhil181511&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil181511&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" alt="Contribution Graph" />
 </div>
 
 <br>
