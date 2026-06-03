@@ -518,6 +518,10 @@ Comprehensive online hotel booking platform with advanced admin dashboard, staff
 </div>
 
 <div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Nikhil181511&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil181511&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff" alt="Contribution Graph" />
 </div>
 
